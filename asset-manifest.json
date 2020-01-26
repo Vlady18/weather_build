@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d18df4d5.chunk.css",
+    "main.js": "/static/js/main.b7b5d002.chunk.js",
+    "main.js.map": "/static/js/main.b7b5d002.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.072cda1e.chunk.css": "/static/css/2.072cda1e.chunk.css",
+    "static/js/2.3060d5e4.chunk.js": "/static/js/2.3060d5e4.chunk.js",
+    "static/js/2.3060d5e4.chunk.js.map": "/static/js/2.3060d5e4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.eebb06930b49e7717cfe8db4d95d575a.js": "/precache-manifest.eebb06930b49e7717cfe8db4d95d575a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.072cda1e.chunk.css.map": "/static/css/2.072cda1e.chunk.css.map",
+    "static/css/main.d18df4d5.chunk.css.map": "/static/css/main.d18df4d5.chunk.css.map",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
